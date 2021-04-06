@@ -1,0 +1,64 @@
+body {
+	margin: 0;
+	font-size: 0.8rem;
+}
+header {
+	display:flex;
+	justify-content: space-between;
+}
+
+/*Topography*/
+.job-role {
+	font-weight: bold;
+}
+.title-skill {
+	font-weight: bold;
+}
+.duration {
+	font-size: 0.5rem;
+}
+.position {
+	font-style: italic;
+	font-weight:lighter;
+}
+h6 {
+	color: #18324d;
+}
+.name {
+	color:#18324d;
+}
+
+/*Layouyt*/
+.job-role {
+	margin-top: -10px;
+}
+.handles {
+	margin: 5px 0;
+}
+.topics {
+	margin-top: 30px;
+}
+.duration {
+	margin-top: -12px;
+}
+.item-skills {
+	margin: 15px 0;
+}
+.item-exp {
+	margin: 8px 0;
+}
+.section1 {
+	width: 75%;
+}
+.section2 {
+	width: 30%
+}
+.portfolio {
+	display: flex;
+	justify-content: space-between;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
